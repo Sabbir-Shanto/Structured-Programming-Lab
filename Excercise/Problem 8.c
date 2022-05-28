@@ -21,7 +21,7 @@ int main()
 	sum=d1+d2+d3+d4+d5;
 	
 	printf("Reverse Order: ");
-	printf("%d %d %d %d %d ",d5,d4,d3,d2,d1);
+	printf("%d\t %d\t %d\t %d\t %d\t ",d5,d4,d3,d2,d1);
 	
 	
 	return 0;
